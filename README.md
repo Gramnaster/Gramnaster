@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gramnaster
+- 👋 Hi, I’m John Patrick Villalon or @Gramnaster
 - 👀 I’m interested in developing interactive TTRPGs and games
 - 🌱 I’m currently learning C#, Node.js
 - 💞️ I’m looking to collaborate on video games!
